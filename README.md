@@ -1,6 +1,7 @@
+(work in progress!)
 
 ### Hi, I'm Jessica 👋
-I used to run my own independent ethical fashion brand, CARBS. I now do this as a hobby at the weekends while I'm learning how to code!
+I used to run my own independent ethical fashion brand, [CARBS](www.wearcarbs.co.uk). I now do this as a hobby at the weekends while I'm learning how to code!
 (CARBS was featured in the Asos Fashion Discovery campaign and is stocked in three countries)
 
 ### Why Coding?
